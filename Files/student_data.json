@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "ABC",
+    "Age": "33",
+    "RollNo": "123",
+    "Pincode": "123456"
+  },
+  {
+    "Name": "DEF",
+    "Age": "29",
+    "RollNo": "45",
+    "Pincode": "652018"
+  },
+  {
+    "Name": "XYZ",
+    "Age": "28",
+    "RollNo": "121",
+    "Pincode": "952173"
+  }
+]
